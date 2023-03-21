@@ -33,7 +33,7 @@
 
     <groupId>BohdanBru</groupId>
     <artifactId>Guess-the-number</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Guess-the-number</name>
     <description>The game "Guess the number" - simple game using GUI and CONSOLE mode</description>
     <developers>
