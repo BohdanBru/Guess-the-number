@@ -26,4 +26,4 @@
 # Fix current dir issue for MacOS
     cd "$(dirname "$0")" || exit
     #--------------------------------------------
-    ./start.sh  user user
+    ./start.sh  GUI
