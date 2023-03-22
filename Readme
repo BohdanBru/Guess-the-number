@@ -1,4 +1,4 @@
-# The Gamoku game project
+# Guess the number game project
 
 ## The game with  modes:
 
@@ -14,7 +14,7 @@ mvn clean package
 
 - Use the following archives:
   - Guess-the-number-1.0-SNAPSHOT-windows.zip for Windows
-  - Guess-the-number-1.0-SNAPSHOT-unix.tar.gz for MacOs and Linx
+  - Guess-the-number-1.0-SNAPSHOT-unix.tar.gz for MacOs and Linux
 
 ***
 
@@ -67,9 +67,9 @@ mvn -P without-jre clean package
 - Guess-the-number-1.0-SNAPSHOT-Linux-with-jre.tar.gz for Linux -Go to unzipped directory;
 - Run the game by double-click on the start script:
   - start.cmd for Windows;
-  - startWindowModeUserUser.cmd for Windows;
-  - startWindowModeUserComputer.cmd for Windows;
+  - startWindowMode.cmd for Windows;
+  - startConsoleMode.cmd for Windows;
   - start.sh for MacOs or Linux;
-  - startWindowModeUserUser.sh for MacOs or Linux;
-  - startWindowModeUserComputer.sh for MacOs or Linux;
+  - startWindowMode.sh for MacOs or Linux;
+  - startConsoleMode.sh for MacOs or Linux;
 
