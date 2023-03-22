@@ -26,7 +26,7 @@ mvn clean package
 - unzip downloaded OpenJDK archive;
 - Configure the `PATH` environment variable:
   - Add %JDK_HOME%\bin directory for Windows;
-  - Add %JDK/HOME%/bin directory for MacOS and Linux -Re-Login or restart computer; -Unzip Tic Tac Toe distribution:
+  - Add %JDK/HOME%/bin directory for MacOS and Linux -Re-Login or restart computer; -Unzip Guess-the-number distribution:
   - Unzip Guess-the-number-${project.version}-windows.zip for Windows;
   - Unzip Guess-the-number-${project.version}-unix.tar.gz for MacOs and Linux; -Go to unzipped directory; -Run the game by
     double-click on the start script:
